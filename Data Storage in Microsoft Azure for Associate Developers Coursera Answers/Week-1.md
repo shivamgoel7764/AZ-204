@@ -1,0 +1,8 @@
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/b9f4a6f6-09e0-4df5-ba0f-fd6c9af2b9bb)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/66dd53b8-3b61-45bd-be9e-f0bf2928f3c0)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/0a887bea-54f7-460b-9406-61e50654ce9f)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/100b11e4-995b-458a-91cb-73392505be48)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/8201d777-223b-4ac2-869f-e001a9e7e788)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/7c13d60f-9969-4129-9482-ac9d93ff6b2f)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/0f4f6f8a-2ea3-41fb-86b3-dde1836c2cbf)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/2ab1a9cf-949f-4377-b37c-b1ebe9e9caf2)
