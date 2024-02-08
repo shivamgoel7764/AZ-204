@@ -106,5 +106,4 @@ the answer for above MIGHT be "Set WEBSITE_RUN_FROM_PACKAGE=1"
 ![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/02422dfc-0d97-4f2b-86b0-8c3842a9cbc4)
 ![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/0790b709-d762-48e3-95f5-7dfcd7e8f3f7)
 
-
 **FOR SOME REASON I CAN'T UPLOAD ANYMORE IMAGES HERE SO I WILL MAKE ANOTHER FILE. THE REMAINING QUESTIONS/ANSWERS WILL BE AVAILABLE THERE**
