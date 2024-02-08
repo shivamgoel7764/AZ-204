@@ -148,3 +148,39 @@ JIT should be the answer for the above question
 ![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/7de9ceec-1b04-43a0-8a9e-30a9a0f0707d)
 
 ![WhatsApp Image 2024-02-08 at 18 48 12_4014aca9](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/f2fda7f7-6447-4baa-a2da-652e86f8c168)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/2a867130-9b29-4936-802e-4acc6d555632)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/ea7331cd-a647-472d-9d12-bde1d406eb31)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/3466070f-9ccb-4c65-8224-07fb847b3d3f)
+![WhatsApp Image 2024-02-08 at 18 49 23_0517d6a1](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/0c39ac83-d49c-4437-99d9-736f7a4b892f)
+![WhatsApp Image 2024-02-08 at 18 49 36_c0e1d0a4](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/aa1e3637-b984-44cb-b308-7c04504c7d6d)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/95b44920-f8b9-43ad-ae40-1ed1ad8a7980)
+![WhatsApp Image 2024-02-08 at 18 50 24_7411f677](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/bf5feaa8-037f-44d8-8f79-baaa739b3307)
+![WhatsApp Image 2024-02-08 at 18 50 25_f3fb4b74](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/25ce8a2a-619d-4fa6-8b6f-d333de759742)
+![WhatsApp Image 2024-02-08 at 18 51 12_d06a27f1](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/8d01ffcc-ca35-4a54-8c98-20cc6f2520ba)
+![WhatsApp Image 2024-02-08 at 18 51 13_4ab19a88](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/398239e5-0ea6-4a75-a857-52f3ef374462)
+![WhatsApp Image 2024-02-08 at 18 51 13_ecd26e81](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/0e7f3b54-0e20-4e41-a557-94e090230f5c)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/c6394d8f-8523-4169-9eed-2f78e6683fe9)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/b40c31fa-0fb2-4e9a-9fa0-513a8a6d23d4)
+![WhatsApp Image 2024-02-08 at 18 51 32_790bb647](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/155e7460-4b1b-4197-8556-cb82dd63f8b3)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/4eddc881-261c-4cdd-9ef2-6a4da83705b8)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/a685fd33-10cd-44d8-a209-a030e2a8360d)
+![WhatsApp Image 2024-02-08 at 18 52 28_1f625987](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/9d5c62ec-50a3-49fb-a2cf-22382dfebff9)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/aae76865-c326-401b-a708-010f386b7796)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/7dd9f602-c6ca-4d38-9fcf-924878ddf1e5)
+![WhatsApp Image 2024-02-08 at 18 52 51_c23c8381](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/edefe022-bb79-4447-9a08-4c6a97964c68)
+
+the answer for above MIGHT be "Set WEBSITE_RUN_FROM_PACKAGE=1"
+
+![WhatsApp Image 2024-02-08 at 18 53 01_e8df6fe1](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/90bad218-03c7-47b7-ae4c-0084f49e1997)
+
+
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/02422dfc-0d97-4f2b-86b0-8c3842a9cbc4)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/0790b709-d762-48e3-95f5-7dfcd7e8f3f7)
+
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/446f20fc-6549-4c6e-ad52-00e3b02de8ea)
+![WhatsApp Image 2024-02-08 at 18 54 17_963e15f4](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/d53c6a64-9212-4081-a447-dba3a88e4016)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/66e4109d-7a8e-4d6f-b146-e0d35cb5bc86)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/3dd040b0-5629-4a04-8a14-974c98e161a8)
+![WhatsApp Image 2024-02-08 at 18 54 29_c4f2bac3](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/172dc20a-aa48-4604-9c6a-0f9654946b58)
+![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/ee043abf-ef03-48da-93d1-e67c886674ad)
+![WhatsApp Image 2024-02-08 at 18 55 04_f0d3bdd3](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/4ca2e849-9221-430c-a91f-bc30e9138d73)
