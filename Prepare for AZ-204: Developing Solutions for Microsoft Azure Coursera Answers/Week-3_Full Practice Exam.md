@@ -105,11 +105,6 @@ the answer for above MIGHT be "Set WEBSITE_RUN_FROM_PACKAGE=1"
 ![WhatsApp Image 2024-02-08 at 18 53 01_e8df6fe1](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/90bad218-03c7-47b7-ae4c-0084f49e1997)
 ![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/02422dfc-0d97-4f2b-86b0-8c3842a9cbc4)
 ![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/0790b709-d762-48e3-95f5-7dfcd7e8f3f7)
-![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/446f20fc-6549-4c6e-ad52-00e3b02de8ea)
-![WhatsApp Image 2024-02-08 at 18 54 17_963e15f4](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/d53c6a64-9212-4081-a447-dba3a88e4016)
-![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/66e4109d-7a8e-4d6f-b146-e0d35cb5bc86)
-![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/3dd040b0-5629-4a04-8a14-974c98e161a8)
-![WhatsApp Image 2024-02-08 at 18 54 29_c4f2bac3](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/172dc20a-aa48-4604-9c6a-0f9654946b58)
-![image](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/ee043abf-ef03-48da-93d1-e67c886674ad)
-![WhatsApp Image 2024-02-08 at 18 55 04_f0d3bdd3](https://github.com/shivamgoel7764/Microsoft-Azure-Developer-Associate-AZ-204-Professional-Certificate-Coursera-Answers/assets/103335994/4ca2e849-9221-430c-a91f-bc30e9138d73)
 
+
+**FOR SOME REASON I CAN'T UPLOAD ANYMORE IMAGES HERE SO I WILL MAKE ANOTHER FILE. THE REMAINING QUESTIONS/ANSWERS WILL BE AVAILABLE THERE**
